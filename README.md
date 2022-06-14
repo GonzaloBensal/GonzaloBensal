@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @GonzaloBensal
 - 👀 I’m interested in web programming | BOT development
 - 🌱 I’m currently learning full stack development with MERN
-- 💞️ I’m looking for my first IT job
+- 💞️ I’m looking for my first developer job
 - 📫 How to reach me: gonzalojulianfb@gmail.com
